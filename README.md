@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="./welcome_page.svg" alt="Welcome" />
+</h1>
+
 ### Hi there 👋
 
 <!--
